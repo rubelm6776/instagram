@@ -1,12 +1,12 @@
 {
-    "name": "instagram/instagram-api",
+    "name": "rubelm6776/instagram-api",
     "description": "Instagram's private API for PHP",
     "license": [
         "RPL-1.5",
         "proprietary"
     ],
     "keywords": [
-        "Instagram",
+        "rubelm6776",
         "Private",
         "API",
         "PHP"

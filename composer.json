@@ -1,5 +1,5 @@
 {
-    "name": "instagram/instagram-api",
+    "name": "rubelm6776/instagram-api",
     "description": "Instagram's private API for PHP",
     "license": [
         "RPL-1.5",
@@ -18,7 +18,7 @@
     },
     "authors": [
         {
-            "name": "instagram",
+            "name": "rubelm6776",
             "email": "me@instagram.com",
             "role": "Founder"
         },
